@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#163f33" />
+    <meta name="description" content="24 recetas filipinas adaptadas para cocinar en Costa Rica: platos, postres, sustituciones locales y fuentes verificadas." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Sabores de Filipinas" />
+    <meta property="og:description" content="Recetas filipinas, ingredientes locales y el sabor de casa." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
+    <title>Sabores de Filipinas · Recetas para Costa Rica</title>
+    <script type="module" src="/src/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#recipes">Saltar a las recetas</a>
+    <header class="site-header" id="top">
+      <div class="header-inner">
+        <a class="brand" href="#top" aria-label="Sabores de Filipinas, inicio">
+          <span class="brand-mark" aria-hidden="true">🌺</span>
+          <span class="brand-copy"><strong>Sabores de Filipinas</strong><small data-i18n="brandTagline">Filipinas × Costa Rica</small></span>
+        </a>
+        <div class="header-actions">
+          <button class="source-button desktop-source" type="button" data-open-sources><span aria-hidden="true">◉</span><span data-i18n="sourcesButton">Fuentes verificadas</span></button>
+          <div class="language-switcher" role="group" aria-label="Idioma">
+            <button type="button" data-language="es" aria-pressed="true">ES</button>
+            <button type="button" data-language="en" aria-pressed="false">EN</button>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section class="hero section-shell" aria-labelledby="hero-title">
+        <div class="hero-copy reveal">
+          <div class="eyebrow"><span class="eyebrow-dot" aria-hidden="true"></span><span data-i18n="heroEyebrow">UN VIAJE DE SABORES · FILIPINAS × COSTA RICA</span></div>
+          <h1 id="hero-title" data-i18n-html="heroTitle">Un pedacito de <em>Filipinas</em>, en tu cocina tica.</h1>
+          <p data-i18n="heroDescription">Recetas filipinas pensadas para ingredientes que puedes encontrar en Costa Rica, con pasos claros, sustituciones honestas y fuentes locales.</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#recipes" data-i18n="exploreRecipes">Explorar recetas</a>
+            <button class="secondary-action" type="button" data-open-sources><span data-i18n="reviewSources">Revisar fuentes</span></button>
+          </div>
+          <div class="hero-stats" aria-label="Resumen de recetas">
+            <div><strong>12</strong><span data-i18n="dishes">comidas</span></div>
+            <div><strong>12</strong><span data-i18n="desserts">postres</span></div>
+            <div><strong>31</strong><span data-i18n="localSources">fuentes locales</span></div>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <span class="sun-disc"></span><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span>
+          <div class="food-plate"><span class="plate-rice">🍚</span><span class="plate-main">🍗</span><span class="plate-leaf">🌿</span></div>
+          <span class="floating-ingredient mango">🥭</span><span class="floating-ingredient coconut">🥥</span><span class="floating-ingredient chilli">🌶️</span>
+          <div class="hero-note"><span>✦</span><p data-i18n="heroNote">Adaptadas con respeto, cocinadas con cariño.</p></div>
+        </div>
+      </section>
+      <section class="intro-strip section-shell reveal" aria-label="Características">
+        <div><span aria-hidden="true">✓</span><p data-i18n="featureOne">Ingredientes con disponibilidad documentada</p></div>
+        <div><span aria-hidden="true">↻</span><p data-i18n="featureTwo">Sustituciones locales explicadas</p></div>
+        <div><span aria-hidden="true">♡</span><p data-i18n="featureThree">Lista de ingredientes interactiva</p></div>
+      </section>
+      <section class="recipe-section section-shell" id="recipes" aria-labelledby="recipes-heading">
+        <div class="section-heading reveal">
+          <div><span class="section-kicker" data-i18n="collectionKicker">EL RECETARIO</span><h2 id="recipes-heading" data-i18n="recipesTitle">¿Qué te gustaría cocinar?</h2><p data-i18n="recipesSubtitle">Encuentra un clásico, abre la receta y cocina a tu ritmo.</p></div>
+          <div class="recipe-count" id="recipe-count" aria-live="polite">24 recetas</div>
+        </div>
+        <div class="recipe-toolbar reveal">
+          <div class="filter-tabs" role="group" aria-label="Filtrar recetas" data-i18n-aria="filterAria">
+            <button class="filter-tab is-active" type="button" data-filter="todos" aria-pressed="true"><span data-i18n="filterAll">Todas</span></button>
+            <button class="filter-tab" type="button" data-filter="comida" aria-pressed="false"><span aria-hidden="true">🍲</span><span data-i18n="filterDishes">Comidas</span></button>
+            <button class="filter-tab" type="button" data-filter="postre" aria-pressed="false"><span aria-hidden="true">🍮</span><span data-i18n="filterDesserts">Postres</span></button>
+            <button class="filter-tab" type="button" data-filter="facil" aria-pressed="false"><span aria-hidden="true">✦</span><span data-i18n="filterEasy">Fáciles</span></button>
+            <button class="filter-tab" type="button" data-filter="temporada" aria-pressed="false"><span aria-hidden="true">🥭</span><span data-i18n="filterSeasonal">De temporada</span></button>
+          </div>
+          <label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only" data-i18n="searchLabel">Buscar recetas</span><input id="recipe-search" type="search" autocomplete="off" placeholder="Buscar platillo o ingrediente…" data-i18n-placeholder="searchPlaceholder" /><kbd>⌘ K</kbd></label>
+        </div>
+        <p class="availability-legend reveal" data-i18n-html="availabilityLegend"><span>Habitual</span> mercado o súper · <span>Especialidad</span> tienda asiática o importación · <span>Temporada</span> mejor con cosecha local</p>
+        <div class="recipe-grid" id="recipe-grid" aria-live="polite" aria-busy="true"><div class="loading-state"><span class="loader" aria-hidden="true"></span><p data-i18n="loading">Preparando el recetario…</p></div></div>
+      </section>
+      <section class="cook-note section-shell reveal" aria-labelledby="cook-note-title">
+        <div class="note-icon" aria-hidden="true">💡</div>
+        <div><span class="section-kicker" data-i18n="beforeCookingKicker">ANTES DE COCINAR</span><h2 id="cook-note-title" data-i18n="beforeCookingTitle">Compra con contexto</h2><p data-i18n="beforeCookingBody">Una ficha de producto confirma que el ingrediente se comercializa en Costa Rica, no que esté disponible hoy en cada sucursal. Indicamos sustituciones cuando el ingrediente filipino original es difícil de encontrar.</p></div>
+        <button class="text-action" type="button" data-open-sources data-i18n="seeAllSources">Ver las 31 fuentes</button>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="footer-inner section-shell">
+        <a class="brand footer-brand" href="#top"><span class="brand-mark" aria-hidden="true">🌺</span><span class="brand-copy"><strong>Sabores de Filipinas</strong><small data-i18n="footerTagline">De Filipinas a Costa Rica, con cariño.</small></span></a>
+        <p data-i18n="footerNote">Recetario consultivo · noviembre de 2026 · recetas para el hogar</p>
+        <button class="footer-link" type="button" data-open-sources data-i18n="sourcesButton">Fuentes verificadas</button>
+      </div>
+    </footer>
+    <dialog class="recipe-dialog" id="recipe-dialog" aria-labelledby="dialog-title"><div id="recipe-dialog-content"></div></dialog>
+    <dialog class="sources-dialog" id="sources-dialog" aria-labelledby="sources-title">
+      <div class="sources-dialog-header"><button class="icon-button dialog-close" type="button" data-close-sources aria-label="Cerrar"><span aria-hidden="true">×</span></button><span class="section-kicker" data-i18n="sourcesKicker">INVESTIGACIÓN LOCAL</span><h2 id="sources-title" data-i18n="sourcesTitle">Ingredientes verificados</h2><p data-i18n="sourcesDescription">Enlaces a comercios y fuentes agrícolas de Costa Rica. Una ficha comercial no garantiza existencias en la tienda más cercana.</p></div>
+      <div class="source-list" id="source-list"></div>
+    </dialog>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <noscript>Este sitio necesita JavaScript para mostrar y filtrar las recetas.</noscript>
+  </body>
+</html>

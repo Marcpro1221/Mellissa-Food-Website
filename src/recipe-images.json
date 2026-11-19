@@ -1,0 +1,338 @@
+{
+  "adobo-pollo": {
+    "src": "/images/recipes/adobo-pollo.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Plato de chicken adobo con pollo en salsa oscura",
+      "en": "A plate of chicken adobo in a dark savory sauce"
+    },
+    "title": "Chicken adobo.jpg",
+    "author": "dbgg1979 on flickr",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicken_adobo.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "sinigang-cerdo": {
+    "src": "/images/recipes/sinigang-cerdo.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Tazón de sinigang na baboy con cerdo y vegetales",
+      "en": "A bowl of sinigang na baboy with pork and vegetables"
+    },
+    "title": "Sinigang na Baboy.jpg",
+    "author": "Wikimedia Commons contributor",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinigang_na_Baboy.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "pancit-bihon": {
+    "src": "/images/recipes/pancit-bihon.jpg",
+    "width": 960,
+    "height": 636,
+    "alt": {
+      "es": "Pancit bihon servido con fideos de arroz, pollo y vegetales",
+      "en": "Pancit bihon served with rice noodles, chicken, and vegetables"
+    },
+    "title": "Pancit bihon 3.jpg",
+    "author": "lynetao",
+    "source": "https://commons.wikimedia.org/wiki/File:Pancit_bihon_3.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "lumpia-shanghai": {
+    "src": "/images/recipes/lumpia-shanghai.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": {
+      "es": "Lumpiang Shanghai dorados servidos en un plato",
+      "en": "Golden lumpiang Shanghai served on a plate"
+    },
+    "title": "Lumpiang Shanghai 2023.jpg",
+    "author": "Roderick Suñaz Sumalinog",
+    "source": "https://commons.wikimedia.org/wiki/File:Lumpiang_Shanghai_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "tinola": {
+    "src": "/images/recipes/tinola.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": {
+      "es": "Sopa tinolang manok con pollo y papaya verde",
+      "en": "Tinolang manok soup with chicken and green papaya"
+    },
+    "title": "Chicken tinola with green papaya and lemongrass.jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicken_tinola_with_green_papaya_and_lemongrass.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "kare-kare": {
+    "src": "/images/recipes/kare-kare.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Kare-kare filipino con carne y vegetales",
+      "en": "Filipino kare-kare with meat and vegetables"
+    },
+    "title": "Kare-kare (Philippines) 03.jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Kare-kare_(Philippines)_03.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "tortang-talong": {
+    "src": "/images/recipes/tortang-talong.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Tortang talong de berenjena y huevo",
+      "en": "Eggplant and egg tortang talong"
+    },
+    "title": "580Pastilas Tortang talong 02.jpg",
+    "author": "Judgefloro",
+    "source": "https://commons.wikimedia.org/wiki/File:580Pastilas_Tortang_talong_02.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "lechon-kawali": {
+    "src": "/images/recipes/lechon-kawali.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Trozos crujientes de lechon kawali",
+      "en": "Crispy pieces of lechon kawali"
+    },
+    "title": "Lechon Kawali - BRUHA 2024-05-23.jpg",
+    "author": "Andy Li",
+    "source": "https://commons.wikimedia.org/wiki/File:Lechon_Kawali_-_BRUHA_2024-05-23.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "bistek": {
+    "src": "/images/recipes/bistek.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Bistek Tagalog con res y aros de cebolla",
+      "en": "Bistek Tagalog with beef and onion rings"
+    },
+    "title": "Bistek Tagalog-01.jpg",
+    "author": "Arnold Gatilao",
+    "source": "https://commons.wikimedia.org/wiki/File:Bistek_Tagalog-01.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "arroz-caldo": {
+    "src": "/images/recipes/arroz-caldo.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Tazón de arroz caldo filipino",
+      "en": "A bowl of Filipino arroz caldo"
+    },
+    "title": "Arroz Caldo.jpg",
+    "author": "Wikimedia Commons contributor",
+    "source": "https://commons.wikimedia.org/wiki/File:Arroz_Caldo.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "afritada": {
+    "src": "/images/recipes/afritada.jpg",
+    "width": 960,
+    "height": 1066,
+    "alt": {
+      "es": "Chicken afritada en salsa de tomate con vegetales",
+      "en": "Chicken afritada in tomato sauce with vegetables"
+    },
+    "title": "Chicken Afritada, Mar 2024.jpg",
+    "author": "Ralff Nestor Nacor",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicken_Afritada,_Mar_2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "chicken-inasal": {
+    "src": "/images/recipes/chicken-inasal.jpg",
+    "width": 960,
+    "height": 741,
+    "alt": {
+      "es": "Chicken inasal asado con arroz",
+      "en": "Grilled chicken inasal with rice"
+    },
+    "title": "Chicken inasal (Philippines).jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicken_inasal_(Philippines).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "leche-flan": {
+    "src": "/images/recipes/leche-flan.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Leche flan filipino cubierto de caramelo",
+      "en": "Filipino leche flan topped with caramel"
+    },
+    "title": "Leche flan (Philippines) 03.jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Leche_flan_(Philippines)_03.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "mango-float": {
+    "src": "/images/recipes/mango-float.jpg",
+    "width": 960,
+    "height": 674,
+    "alt": {
+      "es": "Porción de mango float filipino",
+      "en": "A serving of Filipino mango float"
+    },
+    "title": "Mango float, a Filipino icebox cake version of Crema de Fruta 02.jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Mango_float,_a_Filipino_icebox_cake_version_of_Crema_de_Fruta_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "turon": {
+    "src": "/images/recipes/turon.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": {
+      "es": "Turon de plátano frito y caramelizado",
+      "en": "Fried caramelized banana turon"
+    },
+    "title": "Turon na Saging.jpg",
+    "author": "Herbertkikoy",
+    "source": "https://commons.wikimedia.org/wiki/File:Turon_na_Saging.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "banana-cue": {
+    "src": "/images/recipes/banana-cue.jpg",
+    "width": 960,
+    "height": 648,
+    "alt": {
+      "es": "Banana cue caramelizado en brochetas de bambú",
+      "en": "Caramelized banana cue on bamboo skewers"
+    },
+    "title": "Banana cue on Bamboo skewers in the Philippines.jpg",
+    "author": "FBenjr123",
+    "source": "https://commons.wikimedia.org/wiki/File:Banana_cue_on_Bamboo_skewers_in_the_Philippines.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "maja-blanca": {
+    "src": "/images/recipes/maja-blanca.jpg",
+    "width": 960,
+    "height": 723,
+    "alt": {
+      "es": "Maja blanca filipina de coco y maíz",
+      "en": "Filipino coconut and corn maja blanca"
+    },
+    "title": "Maja Blanca (Coconut Pudding).jpg",
+    "author": "Ralff Nestor Nacor",
+    "source": "https://commons.wikimedia.org/wiki/File:Maja_Blanca_(Coconut_Pudding).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "cassava-cake": {
+    "src": "/images/recipes/cassava-cake.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": {
+      "es": "Porciones de pastel filipino de yuca",
+      "en": "Slices of Filipino cassava cake"
+    },
+    "title": "Cassava cake (Philippines) 2.jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Cassava_cake_(Philippines)_2.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "polvoron": {
+    "src": "/images/recipes/polvoron.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": {
+      "es": "Polvorones filipinos moldeados y listos para servir",
+      "en": "Molded Filipino polvoron ready to serve"
+    },
+    "title": "POLVORON FOR DESSERT.jpg",
+    "author": "Elmer Centeno Guevarra",
+    "source": "https://commons.wikimedia.org/wiki/File:POLVORON_FOR_DESSERT.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "biko": {
+    "src": "/images/recipes/biko.jpg",
+    "width": 960,
+    "height": 640,
+    "alt": {
+      "es": "Biko filipino de arroz glutinoso y coco",
+      "en": "Filipino sticky rice and coconut biko"
+    },
+    "title": "Biko (sticky rice cake).jpg",
+    "author": "Herbertkikoy",
+    "source": "https://commons.wikimedia.org/wiki/File:Biko_(sticky_rice_cake).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "puto": {
+    "src": "/images/recipes/puto.jpg",
+    "width": 960,
+    "height": 646,
+    "alt": {
+      "es": "Pastelitos puto filipinos con queso",
+      "en": "Filipino puto rice cakes with cheese"
+    },
+    "title": "Puto (Filipino rice cake) with cheese.jpg",
+    "author": "Obsidian Soul",
+    "source": "https://commons.wikimedia.org/wiki/File:Puto_(Filipino_rice_cake)_with_cheese.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "halo-halo": {
+    "src": "/images/recipes/halo-halo.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": {
+      "es": "Halo-halo filipino con hielo, frutas y ube",
+      "en": "Filipino halo-halo with shaved ice, fruit, and ube"
+    },
+    "title": "Halu-halo.jpg",
+    "author": "Daragang Nagueña",
+    "source": "https://commons.wikimedia.org/wiki/File:Halu-halo.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ginataang-mais": {
+    "src": "/images/recipes/ginataang-mais.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": {
+      "es": "Ginataang mais cremoso con arroz, coco y maíz",
+      "en": "Creamy ginataang mais with rice, coconut, and corn"
+    },
+    "title": "Ginataang mais (Sweet corn rice porridge, Philippines).jpg",
+    "author": "Debbie Tingzon",
+    "source": "https://commons.wikimedia.org/wiki/File:Ginataang_mais_(Sweet_corn_rice_porridge,_Philippines).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "buko-salad": {
+    "src": "/images/recipes/buko-salad.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": {
+      "es": "Buko salad filipina con coco tierno y frutas",
+      "en": "Filipino buko salad with young coconut and fruit"
+    },
+    "title": "Buko Fruit Salad by Isi Laureano.jpg",
+    "author": "Isi Laureano",
+    "source": "https://commons.wikimedia.org/wiki/File:Buko_Fruit_Salad_by_Isi_Laureano.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

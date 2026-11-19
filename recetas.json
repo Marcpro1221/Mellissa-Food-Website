@@ -1,0 +1,2156 @@
+{
+  "meta": {
+    "title": "Sabores de Filipinas para Costa Rica",
+    "locale": "es-CR",
+    "verified_as_of": "2026-11-19",
+    "disclaimer": "La presencia en un catálogo prueba comercialización, no existencias en cada sucursal. Las recetas son versiones domésticas adaptadas cuando se indica."
+  },
+  "evidence": {
+    "soya": {
+      "title": "Salsa de soya",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/salsa-soya-taiwan-750ml/p",
+      "kind": "Supermercado"
+    },
+    "coco": {
+      "title": "Leche de coco en lata",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/leche-coco-roland-lata-414ml-4/p",
+      "kind": "Supermercado"
+    },
+    "tamarindo": {
+      "title": "Pulpa de tamarindo",
+      "provider": "MegaSuper",
+      "url": "https://www.megasuper.com/p/pulpa-fresquezza-de-tamarindo-1000g-5717",
+      "kind": "Supermercado"
+    },
+    "arrozfideo": {
+      "title": "Fideos de arroz",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/fideos-roland-de-arroz-padthai-400gr/p",
+      "kind": "Supermercado"
+    },
+    "verdberenjena": {
+      "title": "Berenjena",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/berenjena-hortifruti-1unidad/p",
+      "kind": "Supermercado"
+    },
+    "chayote": {
+      "title": "Chayote",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/chayote-cocoro-tierno-empacado-500-g-1-0-8-2-6-0-1-4-3-3/p",
+      "kind": "Supermercado"
+    },
+    "platano": {
+      "title": "Plátano maduro",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/platano-hortifruti-unidad-8/p",
+      "kind": "Supermercado"
+    },
+    "pescado": {
+      "title": "Salsa de pescado Roland",
+      "provider": "Línea Gourmet Costa Rica",
+      "url": "https://lineagourmet.com/producto/salsa-de-pescado-500-ml/",
+      "kind": "Tienda gourmet / disponible al consultar"
+    },
+    "arrozharina": {
+      "title": "Harina de arroz normal",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/harina-de-arroz-don-cesar-500-gr/p",
+      "kind": "Supermercado"
+    },
+    "arrozpegajosa": {
+      "title": "Harina de arroz glutinoso",
+      "provider": "Ancyfer Market Costa Rica",
+      "url": "https://ancyfermarket.com/products/harina-de-arroz-glutinoso-400g",
+      "kind": "Listado local; marcado agotado al consultar"
+    },
+    "arrozgrano": {
+      "title": "Arroz blanco glutinoso (grano entero)",
+      "provider": "Yaxa Costa Rica",
+      "url": "https://costarica.yaxa.co/products/rom-america-arroz-dulce-y-pegajoso-arroz-glutinoso-cabssal-2-libras",
+      "kind": "Importación internacional por pedido"
+    },
+    "condensada": {
+      "title": "Leche condensada",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/lacteos/leche/condensada",
+      "kind": "Supermercado"
+    },
+    "evaporada": {
+      "title": "Leche evaporada",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/lacteos/leche/evaporada",
+      "kind": "Supermercado"
+    },
+    "maicena": {
+      "title": "Fécula de maíz (maicena)",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/abarrotes/harinas-y-reposteria/reposteria",
+      "kind": "Supermercado"
+    },
+    "lechepolvo": {
+      "title": "Leche en polvo",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/lacteos/leche/en-polvo",
+      "kind": "Supermercado"
+    },
+    "maria": {
+      "title": "Galletas María",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/galleta-pozuelo-maria-dulce-168-gr-5/p",
+      "kind": "Supermercado"
+    },
+    "achote": {
+      "title": "Achiote",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/achiote-los-patitos-100gr-4/p",
+      "kind": "Supermercado"
+    },
+    "mani": {
+      "title": "Mantequilla de maní sin azúcar",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/mantequilla-de-mani-natural-bites-sin-azucar-265-g/p",
+      "kind": "Supermercado"
+    },
+    "cocorallado": {
+      "title": "Coco rallado",
+      "provider": "Auto Mercado",
+      "url": "https://automercado.cr/p/coco-rallado-deshidratado-paquete-200-g/id/f5ba8089-7e2f-f011-8c4d-6045bd08e931",
+      "kind": "Supermercado"
+    },
+    "yuca": {
+      "title": "Yuca como cultivo costarricense",
+      "provider": "Sistema de Información Cultural CR",
+      "url": "https://si.cultura.cr/manifestaciones-culturales/sistemas-tradicionales-de-produccion-vegetal-en-el-caribe-costarricense",
+      "kind": "Cultivo local"
+    },
+    "jaca": {
+      "title": "Jaca / fruta de mono en Limón",
+      "provider": "UNED Costa Rica",
+      "url": "https://revistas.uned.ac.cr/index.php/biocenosis/es/article/view/5354",
+      "kind": "Mercado regional / irregular"
+    },
+    "nata": {
+      "title": "Nata de coco importada",
+      "provider": "Yaxa Costa Rica",
+      "url": "https://costarica.yaxa.co/products/tropics-gel-de-coco-nata-de-coco-frascos-de-12-onzas-paquete-de-3",
+      "kind": "Importación por pedido"
+    },
+    "mango": {
+      "title": "Temporada de mango en Costa Rica",
+      "provider": "La Nación, con información del MAG",
+      "url": "https://www.nacion.com/economia/dulce-optimismo-por-mejora-en-la-produccion-de-mango/6OIS2KFLXVEW5IPHCFSCPSAQTU/story/",
+      "kind": "Cosecha principalmente febrero a mayo / junio"
+    },
+    "wrappers": {
+      "title": "Papel de arroz (no igual a envoltura de lumpia)",
+      "provider": "Auto Mercado",
+      "url": "https://automercado.cr/p/papel-de-arroz-duy-anh-paquete-340-g/id/62240ffa-c8f7-ec11-bb3d-00224803c630",
+      "kind": "Existe alternativa, no igual"
+    },
+    "lumpiahomemade": {
+      "title": "Envolturas caseras de harina de trigo",
+      "provider": "Recepedia Filipinas",
+      "url": "https://www.recepedia.com/ph/articles/kitchen-tips/lumpia-wrappers-homemade.html",
+      "kind": "Elaboración doméstica"
+    },
+    "tapioca": {
+      "title": "Perlas de tapioca",
+      "provider": "Ancyfer Market Costa Rica",
+      "url": "https://ancyfermarket.com/collections/granos-y-harinas",
+      "kind": "Tienda asiática"
+    },
+    "cocoagua": {
+      "title": "Coco y sus productos",
+      "provider": "Auto Mercado",
+      "url": "https://automercado.cr/recetas/detalle/Tres%20leches%20caribe%C3%B1o/80374476-abaa-ea11-a812-000d3a5bc927",
+      "kind": "Consumo local"
+    },
+    "zacatelimon": {
+      "title": "Zacate de limón fresco",
+      "provider": "Mi Mercado 24 Costa Rica",
+      "url": "https://mimercado24.com/product/zacate-limon/",
+      "kind": "Venta local de producto fresco"
+    },
+    "pipa": {
+      "title": "Pipa / coco tierno",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/pipa-unidad/p",
+      "kind": "Supermercado"
+    },
+    "coctel": {
+      "title": "Frutas en almíbar y cóctel en lata",
+      "provider": "Walmart Costa Rica",
+      "url": "https://www.walmart.co.cr/abarrotes/enlatados-y-conservas/frutas-en-almibar",
+      "kind": "Supermercado"
+    },
+    "seguridadyuca": {
+      "title": "Seguridad de la yuca: no consumir cruda",
+      "provider": "FAO",
+      "url": "https://www.fao.org/4/t0207e/t0207e08.htm",
+      "kind": "Seguridad alimentaria"
+    }
+  },
+  "recipes": [
+    {
+      "id": "adobo-pollo",
+      "name": "Chicken Adobo",
+      "spanish": "Pollo adobado en soya y vinagre",
+      "category": "comida",
+      "emoji": "🍗",
+      "minutes": 55,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "900 g",
+          "name": "muslos o piernas de pollo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "90 ml",
+          "name": "salsa de soya",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "soya"
+          ]
+        },
+        {
+          "qty": "75 ml",
+          "name": "vinagre blanco o de caña",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "120 ml",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "6 dientes",
+          "name": "ajo machacado",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 hojas",
+          "name": "laurel",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cdta",
+          "name": "pimienta negra en grano",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cda",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cdta",
+          "name": "azúcar, opcional",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Dorar el pollo en una olla con aceite durante 4 minutos por lado; reservar.",
+        "En la misma olla aromatizar el ajo brevemente sin quemarlo.",
+        "Devolver el pollo, añadir soya, vinagre, agua, laurel y pimienta; dejar hervir destapado 2 minutos antes de mezclar.",
+        "Bajar el fuego, tapar y cocinar 25–35 minutos hasta que el pollo esté completamente cocido.",
+        "Destapar y reducir la salsa 5–10 minutos; ajustar sal o acidez y servir con arroz blanco."
+      ],
+      "tip": "La mezcla de vinagre, soya, ajo y laurel da el sabor clásico. Nada estacional.",
+      "source": "https://www.kawalingpinoy.com/chicken-adobo/",
+      "season": "",
+      "substitutions": [
+        "El vinagre de caña costarricense funciona bien; también se puede usar vinagre blanco."
+      ],
+      "health": ""
+    },
+    {
+      "id": "sinigang-cerdo",
+      "name": "Sinigang na Baboy",
+      "spanish": "Sopa agria de cerdo con tamarindo",
+      "category": "comida",
+      "emoji": "🥣",
+      "minutes": 115,
+      "serves": 4,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "900 g",
+          "name": "costilla de cerdo en trozos",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1.8 L",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "tomates",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "120–180 g",
+          "name": "pulpa de tamarindo natural sin azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "tamarindo"
+          ]
+        },
+        {
+          "qty": "1",
+          "name": "rábano grande o 4 pequeños",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "berenjena",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "verdberenjena"
+          ]
+        },
+        {
+          "qty": "150 g",
+          "name": "vainicas o ejotes",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 puñado",
+          "name": "espinaca o hojas de mostaza",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1–2 cdas",
+          "name": "salsa de pescado, opcional",
+          "grade": "especial",
+          "note": "",
+          "evidence": [
+            "pescado"
+          ]
+        }
+      ],
+      "steps": [
+        "Hervir cerdo en agua, retirar la espuma y cocinar a fuego suave 60–85 minutos hasta que esté tierno.",
+        "Añadir cebolla y tomate; cocinar otros 10 minutos.",
+        "Mezclar la pulpa de tamarindo con un poco de caldo, colar para retirar semillas y fibras, y agregar gradualmente hasta lograr una acidez agradable.",
+        "Añadir rábano, vainicas y berenjena; cocinar 8–12 minutos hasta tiernos.",
+        "Incorporar espinaca 1–2 minutos antes de apagar. Sazonar con sal o un poco de salsa de pescado."
+      ],
+      "tip": "Usar pulpa de tamarindo SIN azúcar; algunas pulpas para fresco vienen endulzadas.",
+      "source": "https://www.kawalingpinoy.com/sinigang-na-baboy/",
+      "season": "",
+      "substitutions": [
+        "Espinaca reemplaza las hojas filipinas kangkong sin ser idéntica.",
+        "Si no hay tamarindo puro, limón puede dar acidez, pero el sabor ya no será igual."
+      ],
+      "health": ""
+    },
+    {
+      "id": "pancit-bihon",
+      "name": "Pancit Bihon",
+      "spanish": "Fideos de arroz salteados",
+      "category": "comida",
+      "emoji": "🍜",
+      "minutes": 45,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "250 g",
+          "name": "fideos finos de arroz (bihon)",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "arrozfideo"
+          ]
+        },
+        {
+          "qty": "300 g",
+          "name": "pollo en tiras",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "zanahoria en bastones",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "250 g",
+          "name": "repollo finamente cortado",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "3 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "70 ml",
+          "name": "salsa de soya",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "soya"
+          ]
+        },
+        {
+          "qty": "500–600 ml",
+          "name": "caldo de pollo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 cdas",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "limón para servir",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Hidratar los fideos según el paquete y escurrir sin sobrecocinarlos.",
+        "En sartén grande sofreír ajo y cebolla; agregar pollo y cocinar completamente.",
+        "Añadir zanahoria y repollo y saltear 3–4 minutos para conservar algo de textura.",
+        "Verter caldo y salsa de soya; llevar a hervor suave.",
+        "Incorporar fideos y mezclar hasta que absorban el líquido (5–8 minutos según grosor). Servir con limón."
+      ],
+      "tip": "Los fideos de arroz Pad Thai están listados localmente; busca los más finos que encuentres para acercarte al bihon.",
+      "source": "https://www.kawalingpinoy.com/pancit-bihon-guisado/",
+      "season": "",
+      "substitutions": [
+        "Si solo hay fideos de arroz anchos, el sabor es similar, pero la textura no será exactamente bihon."
+      ],
+      "health": ""
+    },
+    {
+      "id": "lumpia-shanghai",
+      "name": "Lumpiang Shanghai",
+      "spanish": "Rollitos filipinos de cerdo",
+      "category": "comida",
+      "emoji": "🥟",
+      "minutes": 60,
+      "serves": 6,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "500 g",
+          "name": "carne molida de cerdo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "zanahoria rallada",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "½",
+          "name": "cebolla finamente picada",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "3 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "huevo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cda",
+          "name": "salsa de soya",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "soya"
+          ]
+        },
+        {
+          "qty": "20–24",
+          "name": "envolturas finas de lumpia de TRIGO",
+          "grade": "especial",
+          "note": "Si no hay, preparar láminas muy finas de harina y agua; no confundir con papel de arroz.",
+          "evidence": [
+            "lumpiahomemade",
+            "wrappers"
+          ]
+        },
+        {
+          "qty": "aprox. 500 ml",
+          "name": "aceite para freír",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "al gusto",
+          "name": "pimienta y sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Mezclar carne, zanahoria, cebolla, ajo, huevo, soya y pimienta hasta integrar.",
+        "Poner una cucharada de relleno en un extremo de cada lámina; enrollar en cilindros finos y sellar con agua o pasta de harina.",
+        "Mantener las láminas cubiertas con un paño ligeramente húmedo para que no se sequen.",
+        "Freír por tandas a unos 170–180 °C, girando, hasta dorar y asegurar que la carne quede totalmente cocida (aprox. 5–8 min según tamaño).",
+        "Escurrir sobre rejilla. Servir con salsa agridulce o vinagre sazonado."
+      ],
+      "tip": "La envoltura correcta es una lámina delgada de trigo; el papel de arroz vietnamita produce otro resultado.",
+      "source": "https://www.kawalingpinoy.com/lumpia-shanghai/",
+      "season": "",
+      "substitutions": [
+        "Las envolturas caseras de harina, agua y sal permiten prepararlos sin comprar producto importado.",
+        "La pasta filo puede funcionar solo como adaptación; es más quebradiza."
+      ],
+      "health": ""
+    },
+    {
+      "id": "tinola",
+      "name": "Tinolang Manok",
+      "spanish": "Sopa de pollo con jengibre y chayote",
+      "category": "comida",
+      "emoji": "🍲",
+      "minutes": 55,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "850 g",
+          "name": "pollo con hueso",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "chayotes pelados y picados",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "chayote"
+          ]
+        },
+        {
+          "qty": "35 g",
+          "name": "jengibre fresco en láminas",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "4 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1.4 L",
+          "name": "agua o caldo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 puñados",
+          "name": "espinaca",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cda",
+          "name": "salsa de pescado, opcional",
+          "grade": "especial",
+          "note": "",
+          "evidence": [
+            "pescado"
+          ]
+        },
+        {
+          "qty": "1 cda",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Sofreír ajo, cebolla y jengibre en aceite 2–3 minutos.",
+        "Agregar el pollo y sellarlo ligeramente por todos lados.",
+        "Añadir agua o caldo; cocinar tapado a fuego medio-bajo 25–30 minutos.",
+        "Incorporar chayote y cocinar 10–15 minutos hasta tierno.",
+        "Agregar espinaca al final y sazonar con sal o salsa de pescado."
+      ],
+      "tip": "El chayote se llama sayote en Filipinas y es un sustituto tradicional de la papaya verde.",
+      "source": "https://www.kawalingpinoy.com/tinolang-manok-chicken-tinola/",
+      "season": "",
+      "substitutions": [
+        "Si consigue papaya verde, puede usarla en lugar del chayote."
+      ],
+      "health": ""
+    },
+    {
+      "id": "kare-kare",
+      "name": "Kare-Kare",
+      "spanish": "Estofado filipino de maní y achiote",
+      "category": "comida",
+      "emoji": "🥜",
+      "minutes": 155,
+      "serves": 5,
+      "level": "Avanzada",
+      "ingredients": [
+        {
+          "qty": "900 g",
+          "name": "rabo de res o carne para estofar",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "150 g",
+          "name": "mantequilla de maní sin azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "mani"
+          ]
+        },
+        {
+          "qty": "3 cdas",
+          "name": "harina de arroz normal",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "arrozharina"
+          ]
+        },
+        {
+          "qty": "1 cdta",
+          "name": "achiote o semillas de achiote",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "achote"
+          ]
+        },
+        {
+          "qty": "1",
+          "name": "berenjena",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "verdberenjena"
+          ]
+        },
+        {
+          "qty": "200 g",
+          "name": "vainicas o ejotes",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 puñados",
+          "name": "espinaca o bok choy",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "4 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "opcional",
+          "name": "bagoong (pasta de camarón filipina)",
+          "grade": "especial",
+          "note": "No se confirmó venta local regular; solo pedido/importación. Acompañamiento tradicional.",
+          "evidence": []
+        },
+        {
+          "qty": "aprox. 1.5 L",
+          "name": "agua o caldo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Cocinar la carne en agua a fuego suave durante 1.5–2.5 horas hasta quedar muy tierna; reservar el caldo.",
+        "Tostar la harina de arroz en sartén seco 2–3 minutos a fuego bajo y apartar.",
+        "Sofreír cebolla y ajo. Añadir achiote y 750 ml de caldo de cocción.",
+        "Disolver el maní y la harina tostada en un poco de caldo frío y agregarlos; remover hasta espesar suavemente.",
+        "Sumar carne, berenjena y vainicas; cocinar 8–12 minutos, añadir hojas verdes al final. Servir con arroz."
+      ],
+      "tip": "El bagoong es el acompañamiento clásico. Sin él, es una versión adaptada; no reemplazarlo sin avisar.",
+      "source": "https://www.kawalingpinoy.com/kare-kare/",
+      "season": "",
+      "substitutions": [
+        "Use una mantequilla de maní sin azúcar añadida; las endulzadas cambian el sabor.",
+        "Para evitar el ingrediente importado, servir sin bagoong y señalar “versión adaptada”."
+      ],
+      "health": ""
+    },
+    {
+      "id": "tortang-talong",
+      "name": "Tortang Talong",
+      "spanish": "Tortilla filipina de berenjena",
+      "category": "comida",
+      "emoji": "🍆",
+      "minutes": 30,
+      "serves": 2,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "2",
+          "name": "berenjenas medianas",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "verdberenjena"
+          ]
+        },
+        {
+          "qty": "3",
+          "name": "huevos",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "¼ cdta",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "pizca",
+          "name": "pimienta",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 cdas",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Asar berenjenas enteras al fuego, horno o parrilla hasta que la piel esté oscura y el interior muy blando (12–20 min).",
+        "Dejar enfriar lo justo, pelar con cuidado conservando el tallo y aplanar la pulpa con un tenedor.",
+        "Batir huevos con sal y pimienta. Sumergir la berenjena aplanada hasta cubrirla.",
+        "Freír a fuego medio en poco aceite 3–4 minutos por lado, hasta que el huevo esté cuajado.",
+        "Servir con arroz y, si se desea, ketchup o salsa picante."
+      ],
+      "tip": "Uno de los platos más fáciles usando berenjena costarricense.",
+      "source": "https://www.kawalingpinoy.com/tortang-talong/",
+      "season": "",
+      "substitutions": [
+        "Con berenjenas muy redondas, cortar longitudinalmente y aplanar con cuidado: no será la silueta típica, pero funciona."
+      ],
+      "health": ""
+    },
+    {
+      "id": "lechon-kawali",
+      "name": "Lechon Kawali",
+      "spanish": "Panceta de cerdo crujiente",
+      "category": "comida",
+      "emoji": "🥓",
+      "minutes": 155,
+      "serves": 5,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "1 kg",
+          "name": "panceta de cerdo con piel",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "4 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "hojas de laurel",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cdta",
+          "name": "pimienta en grano",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cda",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "cantidad necesaria",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "750 ml aprox.",
+          "name": "aceite de freír de alto punto de humo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Hervir panceta con ajo, cebolla, laurel, sal y pimienta a fuego suave unos 60–75 minutos hasta tierna.",
+        "Retirar, escurrir, secar MUY bien y enfriar sobre rejilla; refrigerar destapada si es posible varias horas.",
+        "Calentar suficiente aceite en olla profunda y estable. Introducir la panceta con extremo cuidado por las salpicaduras.",
+        "Freír 12–20 minutos o hasta que la piel esté dorada y crujiente, según el grosor; dejar reposar.",
+        "Cortar y servir con vinagre, ajo y un poco de soya."
+      ],
+      "tip": "Para reducir salpicaduras peligrosas, secar completamente la carne y nunca introducir agua en aceite caliente.",
+      "source": "https://www.kawalingpinoy.com/lechon-kawali/",
+      "season": "",
+      "substitutions": [],
+      "health": "¡Atención al aceite caliente! La panceta húmeda produce salpicaduras intensas. No dejar la fritura sin vigilancia."
+    },
+    {
+      "id": "bistek",
+      "name": "Bistek Tagalog",
+      "spanish": "Res con cebolla, soya y limón",
+      "category": "comida",
+      "emoji": "🥩",
+      "minutes": 45,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "650 g",
+          "name": "res en filetes muy delgados",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "80 ml",
+          "name": "salsa de soya",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "soya"
+          ]
+        },
+        {
+          "qty": "60 ml",
+          "name": "jugo de limón",
+          "grade": "comun",
+          "note": "Sustituye al calamansi filipino; cambia un poco el aroma.",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "cebollas grandes en aros",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "3 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "120 ml",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 cdas",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "al gusto",
+          "name": "pimienta negra",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Marinar la carne 15–25 minutos con soya, limón, ajo y pimienta.",
+        "Dorar las cebollas brevemente en una sartén; reservar una parte para decorar.",
+        "Sellar la carne escurrida en sartén caliente por tandas.",
+        "Verter marinada y agua; cocinar tapado 10–20 minutos hasta ablandar, añadiendo agua si hiciera falta.",
+        "Añadir los aros de cebolla restantes y cocinar 2–3 minutos; servir con arroz."
+      ],
+      "tip": "Limón costarricense sustituye el calamansi, pero la fragancia es distinta.",
+      "source": "https://www.kawalingpinoy.com/bistek/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "arroz-caldo",
+      "name": "Arroz Caldo",
+      "spanish": "Sopa espesa de arroz con pollo y jengibre",
+      "category": "comida",
+      "emoji": "🍚",
+      "minutes": 60,
+      "serves": 5,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "200 g",
+          "name": "arroz blanco",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "650 g",
+          "name": "pollo en piezas pequeñas",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "35 g",
+          "name": "jengibre fresco",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "5 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1.6 L",
+          "name": "caldo de pollo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "huevos duros, para servir",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 cdas",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cda",
+          "name": "salsa de pescado, opcional",
+          "grade": "especial",
+          "note": "",
+          "evidence": [
+            "pescado"
+          ]
+        },
+        {
+          "qty": "1",
+          "name": "limón",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Sofreír ajo en poco aceite hasta dorado; retirar una parte para decorar.",
+        "En la misma olla sofreír cebolla y jengibre; añadir pollo y dorar suavemente.",
+        "Agregar arroz lavado y revolver 1 minuto para recubrirlo.",
+        "Verter caldo, cocinar a fuego bajo 30–40 minutos, removiendo y añadiendo agua hasta textura de gachas.",
+        "Sazonar, servir con huevo duro, ajo tostado y unas gotas de limón."
+      ],
+      "tip": "Se puede preparar con arroz común; la textura será menos pegajosa que con malagkit.",
+      "source": "https://www.kawalingpinoy.com/arroz-caldo/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "afritada",
+      "name": "Chicken Afritada",
+      "spanish": "Pollo guisado en salsa de tomate",
+      "category": "comida",
+      "emoji": "🍅",
+      "minutes": 60,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "850 g",
+          "name": "pollo en presas",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "350 ml",
+          "name": "puré o salsa de tomate sin azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "papas grandes",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2",
+          "name": "zanahorias",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "chile dulce o pimiento",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1",
+          "name": "cebolla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "4 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "200 ml",
+          "name": "agua o caldo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 cdas",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "½ taza",
+          "name": "arvejas o guisantes, opcional",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Sellar pollo con aceite en una olla; reservar.",
+        "Sofreír ajo y cebolla; incorporar salsa de tomate y agua.",
+        "Reincorporar pollo y cocinar tapado 20 minutos.",
+        "Agregar papa y zanahoria, y dejar 15–20 minutos hasta que todo esté tierno.",
+        "Añadir chile dulce y arvejas durante los últimos 5 minutos; rectificar sal."
+      ],
+      "tip": "Una excelente primera receta: los ingredientes son habituales en Costa Rica.",
+      "source": "https://www.kawalingpinoy.com/chicken-afritada/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "chicken-inasal",
+      "name": "Chicken Inasal",
+      "spanish": "Pollo a la parrilla con achiote",
+      "category": "comida",
+      "emoji": "🔥",
+      "minutes": 75,
+      "serves": 4,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "900 g",
+          "name": "pollo (muslos y piernas)",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "70 ml",
+          "name": "jugo de limón",
+          "grade": "comun",
+          "note": "Reemplazo local del calamansi.",
+          "evidence": []
+        },
+        {
+          "qty": "60 ml",
+          "name": "vinagre blanco o de caña",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "5 dientes",
+          "name": "ajo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "30 g",
+          "name": "jengibre",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 tallos",
+          "name": "zacate de limón / limoncillo (lemongrass)",
+          "grade": "especial",
+          "note": "Disponible en proveedores locales de producto fresco; confirmar existencias y entregas en tu zona.",
+          "evidence": [
+            "zacatelimon"
+          ]
+        },
+        {
+          "qty": "1 cda",
+          "name": "azúcar morena",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cda",
+          "name": "salsa de pescado, opcional",
+          "grade": "especial",
+          "note": "",
+          "evidence": [
+            "pescado"
+          ]
+        },
+        {
+          "qty": "2 cdas",
+          "name": "aceite",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 cdta",
+          "name": "achiote",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "achote"
+          ]
+        }
+      ],
+      "steps": [
+        "Mezclar limón, vinagre, ajo, jengibre, limoncillo machacado, azúcar y salsa de pescado o sal.",
+        "Marinar pollo refrigerado por lo menos 2 horas (no se incluye la espera en el tiempo activo).",
+        "Calentar parrilla a fuego medio; derretir achiote en aceite y usar la mezcla para pincelar.",
+        "Asar el pollo girando y pincelando con el aceite coloreado hasta que alcance 74 °C en el centro (aprox. 30–40 minutos según tamaño).",
+        "Acompañar con arroz, limón y salsa de soya."
+      ],
+      "tip": "El limoncillo es aromático; sin él, es una adaptación del inasal. El tiempo indicado no incluye el marinado.",
+      "source": "https://www.kawalingpinoy.com/chicken-inasal/",
+      "season": "",
+      "substitutions": [
+        "Si no encuentra limoncillo, usar ralladura de limón más jengibre y aclarar que es una adaptación."
+      ],
+      "health": ""
+    },
+    {
+      "id": "leche-flan",
+      "name": "Leche Flan",
+      "spanish": "Flan filipino de caramelo",
+      "category": "postre",
+      "emoji": "🍮",
+      "minutes": 80,
+      "serves": 8,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "8",
+          "name": "yemas de huevo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "395 g",
+          "name": "leche condensada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "condensada"
+          ]
+        },
+        {
+          "qty": "350 ml",
+          "name": "leche evaporada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "evaporada"
+          ]
+        },
+        {
+          "qty": "120 g",
+          "name": "azúcar para caramelo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "½ cdta",
+          "name": "vainilla",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Derretir el azúcar lentamente hasta obtener un caramelo dorado; cubrir con él el fondo del molde.",
+        "Batir las yemas MUY suavemente con leche condensada, evaporada y vainilla, evitando burbujas.",
+        "Pasar por colador fino y verter sobre el caramelo frío; cubrir con papel aluminio.",
+        "Hornear a baño María a 160 °C durante 45–60 minutos, hasta que el centro aún tiemble ligeramente.",
+        "Enfriar y refrigerar al menos 4 horas antes de desmoldar."
+      ],
+      "tip": "Se parece al flan latinoamericano, pero la versión filipina suele usar solo yemas.",
+      "source": "https://www.kawalingpinoy.com/leche-flan/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "mango-float",
+      "name": "Mango Float",
+      "spanish": "Pastel helado de mango sin horno",
+      "category": "postre",
+      "emoji": "🥭",
+      "minutes": 25,
+      "serves": 8,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "3–4",
+          "name": "mangos maduros en láminas",
+          "grade": "temporada",
+          "note": "Mejor cosecha local aprox. febrero–mayo; en otros meses puede ser importado.",
+          "evidence": [
+            "mango"
+          ]
+        },
+        {
+          "qty": "300 g",
+          "name": "galletas María",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "maria"
+          ]
+        },
+        {
+          "qty": "400 ml",
+          "name": "crema dulce para batir fría",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "250 g",
+          "name": "leche condensada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "condensada"
+          ]
+        }
+      ],
+      "steps": [
+        "Batir la crema fría hasta textura ligeramente espesa; incorporar la leche condensada con movimientos suaves.",
+        "En recipiente, formar una capa fina de crema, una de galletas y una de láminas de mango.",
+        "Repetir capas y terminar con mango o migas de galleta.",
+        "Cubrir y refrigerar 6–8 horas o toda la noche para suavizar las galletas.",
+        "Servir muy frío; también se puede congelar 2 horas para textura más firme."
+      ],
+      "tip": "⭐ Postre de temporada: mejor con mango local durante la cosecha principal (aprox. febrero a mayo; varía por región).",
+      "source": "https://www.kawalingpinoy.com/mango-royale/",
+      "season": "Cosecha principal de mango: febrero–mayo (a veces hasta junio)",
+      "substitutions": [
+        "Galletas María sustituyen las Graham filipinas, pero tienen distinto sabor y absorción."
+      ],
+      "health": ""
+    },
+    {
+      "id": "turon",
+      "name": "Turon",
+      "spanish": "Rollito frito de plátano caramelizado",
+      "category": "postre",
+      "emoji": "🍌",
+      "minutes": 35,
+      "serves": 6,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "3",
+          "name": "plátanos muy maduros pero firmes",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "platano"
+          ]
+        },
+        {
+          "qty": "12",
+          "name": "envolturas de lumpia de trigo",
+          "grade": "especial",
+          "note": "También pueden hacerse en casa.",
+          "evidence": [
+            "lumpiahomemade"
+          ]
+        },
+        {
+          "qty": "100 g",
+          "name": "azúcar morena o blanca",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "cantidad necesaria",
+          "name": "aceite neutro",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "opcional",
+          "name": "jaca / langka en tiras",
+          "grade": "especial",
+          "note": "Se cultiva en Costa Rica, pero la fruta fresca no es habitual; puede omitirse.",
+          "evidence": [
+            "jaca"
+          ]
+        }
+      ],
+      "steps": [
+        "Pelar los plátanos y cortarlos longitudinalmente en 2–4 piezas según su grosor.",
+        "Pasar cada pieza por un poco de azúcar. Colocar dentro de una envoltura; agregar jaca si la hay.",
+        "Cerrar los bordes y enrollar firmemente; sellar con agua o pasta de harina.",
+        "Freír a fuego medio (aprox. 175 °C), girando, hasta dorar y caramelizar el azúcar.",
+        "Escurrir sobre rejilla y servir con cuidado porque el caramelo quema."
+      ],
+      "tip": "El plátano maduro es una adaptación: el turon tradicional utiliza saba. La jaca es opcional.",
+      "source": "https://www.kawalingpinoy.com/banana-turon/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "banana-cue",
+      "name": "Banana Cue",
+      "spanish": "Plátano frito caramelizado",
+      "category": "postre",
+      "emoji": "🍡",
+      "minutes": 25,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "4",
+          "name": "plátanos maduros enteros, firmes",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "platano"
+          ]
+        },
+        {
+          "qty": "100–130 g",
+          "name": "azúcar morena",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "cantidad necesaria",
+          "name": "aceite para freír",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "4",
+          "name": "palitos de brocheta, opcional",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Pelar y secar los plátanos; si son grandes, cortarlos por la mitad.",
+        "Freír en aceite a fuego medio 3–5 minutos, hasta que comiencen a ablandarse y dorarse.",
+        "Espolvorear el azúcar en el aceite con mucha precaución y girar los plátanos para formar una capa de caramelo.",
+        "Retirar cuando estén glaseados. Dejar enfriar ligeramente y ensartar en palitos si se desea."
+      ],
+      "tip": "En Filipinas se prepara con banana saba; el plátano maduro de Costa Rica da un resultado más denso.",
+      "source": "https://panlasangpinoy.com/bananacue/",
+      "season": "",
+      "substitutions": [],
+      "health": "Azúcar derretida y aceite caliente pueden ocasionar quemaduras graves."
+    },
+    {
+      "id": "maja-blanca",
+      "name": "Maja Blanca",
+      "spanish": "Pudín filipino de coco y maíz",
+      "category": "postre",
+      "emoji": "🌽",
+      "minutes": 30,
+      "serves": 8,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "400 ml",
+          "name": "leche de coco",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coco"
+          ]
+        },
+        {
+          "qty": "400 ml",
+          "name": "leche",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "110 g",
+          "name": "fécula de maíz / maicena",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "maicena"
+          ]
+        },
+        {
+          "qty": "120 g",
+          "name": "azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "160 g",
+          "name": "maíz dulce cocido o enlatado",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "¼ cdta",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "30 g",
+          "name": "coco rallado para decorar",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "cocorallado"
+          ]
+        }
+      ],
+      "steps": [
+        "Disolver la maicena en 200 ml de leche FRÍA sin dejar grumos.",
+        "Calentar leche de coco, resto de leche, azúcar y sal en una olla.",
+        "Agregar el maíz e incorporar poco a poco la maicena disuelta.",
+        "Cocinar a fuego medio-bajo removiendo constantemente hasta muy espeso (5–8 min).",
+        "Verter en un molde, enfriar y refrigerar 2 horas; decorar con coco rallado."
+      ],
+      "tip": "Todos los ingredientes esenciales están documentados en supermercados costarricenses.",
+      "source": "https://www.kawalingpinoy.com/maja-blanca/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "cassava-cake",
+      "name": "Cassava Cake",
+      "spanish": "Pastel filipino de yuca y coco",
+      "category": "postre",
+      "emoji": "🍰",
+      "minutes": 85,
+      "serves": 8,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "750 g",
+          "name": "yuca dulce rallada, correctamente pelada y procesada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "yuca",
+            "seguridadyuca"
+          ]
+        },
+        {
+          "qty": "400 ml",
+          "name": "leche de coco",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coco"
+          ]
+        },
+        {
+          "qty": "300 g",
+          "name": "leche condensada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "condensada"
+          ]
+        },
+        {
+          "qty": "2",
+          "name": "huevos",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "50 g",
+          "name": "azúcar, si se quiere más dulce",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "30 g",
+          "name": "mantequilla para el molde",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Usar yuca DULCE apta para alimentación. Pelarla completamente, retirar centro fibroso si es necesario, rallar, lavar/escurrir y exprimir según las instrucciones del producto. Nunca probar cruda.",
+        "Precalentar el horno a 180 °C y engrasar un molde mediano.",
+        "Mezclar yuca preparada, leche de coco, condensada y huevos; añadir azúcar solo si hace falta.",
+        "Verter en molde y hornear 50–65 minutos o hasta que el centro esté firme y la masa totalmente cocida.",
+        "Dejar enfriar antes de cortar; conservar refrigerado."
+      ],
+      "tip": "IMPORTANTE: No usar yuca amarga sin procesamiento especializado. La yuca cruda puede contener compuestos tóxicos.",
+      "source": "https://www.kawalingpinoy.com/cassava-cake-with-custard-topping/",
+      "season": "",
+      "substitutions": [
+        "Esta versión sencilla omite la cobertura de flan para que sea más fácil con ingredientes locales."
+      ],
+      "health": "La yuca cruda puede liberar compuestos cianogénicos: usar solo yuca dulce comercial apta, pelar y procesar adecuadamente, cocinar por completo. No usar yuca amarga ni comer masa cruda."
+    },
+    {
+      "id": "polvoron",
+      "name": "Polvoron",
+      "spanish": "Dulce filipino de leche en polvo",
+      "category": "postre",
+      "emoji": "🍪",
+      "minutes": 25,
+      "serves": 14,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "250 g",
+          "name": "harina de trigo",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "160 g",
+          "name": "leche en polvo",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "lechepolvo"
+          ]
+        },
+        {
+          "qty": "130 g",
+          "name": "azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "150 g",
+          "name": "mantequilla derretida",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 pizca",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Tostar la harina en sartén seca a fuego bajo, revolviendo 8–12 minutos hasta que esté ligeramente dorada y huela a galleta; dejar enfriar.",
+        "Mezclar harina tostada, leche en polvo, azúcar y sal.",
+        "Incorporar mantequilla derretida gradualmente, hasta lograr arena húmeda que conserve su forma al comprimir.",
+        "Presionar en moldes pequeños o cucharas medidoras; desmoldar con cuidado.",
+        "Refrigerar 30 minutos antes de servir."
+      ],
+      "tip": "Es fácil de regalar y no necesita horno. Los moldes dan mejor forma.",
+      "source": "https://www.kawalingpinoy.com/polvoron/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "biko",
+      "name": "Biko",
+      "spanish": "Pastel pegajoso de arroz y coco",
+      "category": "postre",
+      "emoji": "🍚",
+      "minutes": 60,
+      "serves": 8,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "350 g",
+          "name": "arroz glutinoso entero (malagkit)",
+          "grade": "especial",
+          "note": "No se confirmó inventario local habitual; disponible mediante importación por pedido. No es arroz de sushi.",
+          "evidence": [
+            "arrozgrano"
+          ]
+        },
+        {
+          "qty": "400 ml",
+          "name": "leche de coco",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coco"
+          ]
+        },
+        {
+          "qty": "160 g",
+          "name": "azúcar morena",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "450 ml",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "¼ cdta",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "opcional",
+          "name": "coco rallado tostado para terminar",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "cocorallado"
+          ]
+        }
+      ],
+      "steps": [
+        "Enjuagar arroz glutinoso y cocinarlo con agua hasta que absorba la mayor parte, sin secarlo por completo.",
+        "En olla aparte calentar leche de coco, azúcar y sal a fuego bajo hasta disolver.",
+        "Agregar arroz precocido y revolver continuamente 10–20 minutos hasta que la mezcla quede muy espesa y pegajosa.",
+        "Transferir a molde engrasado y alisar; dejar templar hasta poder cortar.",
+        "Servir con coco tostado, si se desea."
+      ],
+      "tip": "El arroz glutinoso es imprescindible para la textura del biko. Es compra especializada o por importación, no una harina común.",
+      "source": "https://www.kawalingpinoy.com/biko/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "puto",
+      "name": "Puto Puti",
+      "spanish": "Pastelitos de arroz al vapor",
+      "category": "postre",
+      "emoji": "🧁",
+      "minutes": 40,
+      "serves": 12,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "250 g",
+          "name": "harina de arroz normal (NO glutinosa)",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "arrozharina"
+          ]
+        },
+        {
+          "qty": "150 ml",
+          "name": "leche de coco",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coco"
+          ]
+        },
+        {
+          "qty": "150 ml",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "120 g",
+          "name": "azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "2 cdtas",
+          "name": "polvo de hornear",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "¼ cdta",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "cantidad necesaria",
+          "name": "aceite para engrasar moldes",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "opcional",
+          "name": "queso fresco suave en trocitos",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Engrasar moldes pequeños aptos para vapor y poner agua a calentar en la vaporera.",
+        "Mezclar harina de arroz, polvo de hornear, azúcar y sal.",
+        "Incorporar leche de coco y agua hasta obtener una masa suave, sin batir de más.",
+        "Verter a ¾ de altura en los moldes y colocar queso encima si se desea.",
+        "Cocinar al vapor 15–20 minutos; mantener la tapa envuelta en paño para que no caigan gotas sobre los pasteles."
+      ],
+      "tip": "Para esta versión se usa harina de arroz NORMAL; no sustituir directamente por harina glutinoso.",
+      "source": "https://www.kawalingpinoy.com/puto/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "halo-halo",
+      "name": "Halo-Halo",
+      "spanish": "Postre filipino de hielo mezclado",
+      "category": "postre",
+      "emoji": "🍧",
+      "minutes": 30,
+      "serves": 4,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "4 tazas",
+          "name": "hielo finamente raspado",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "300 ml",
+          "name": "leche evaporada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "evaporada"
+          ]
+        },
+        {
+          "qty": "1 taza",
+          "name": "frijoles rojos cocidos y endulzados",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 taza",
+          "name": "cubitos de gelatina de colores ya cuajada",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "1 taza",
+          "name": "fruta enlatada escurrida",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coctel"
+          ]
+        },
+        {
+          "qty": "2",
+          "name": "bananos frescos cortados",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "4 rebanadas",
+          "name": "leche flan, opcional",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "opcional",
+          "name": "nata de coco",
+          "grade": "especial",
+          "note": "Importación por pedido; no imprescindible.",
+          "evidence": [
+            "nata"
+          ]
+        },
+        {
+          "qty": "opcional",
+          "name": "mango fresco",
+          "grade": "temporada",
+          "note": "Mejor aprox. febrero–mayo; puede omitirse.",
+          "evidence": [
+            "mango"
+          ]
+        }
+      ],
+      "steps": [
+        "Preparar con antelación frijoles dulces y cubitos de gelatina según sus instrucciones, y enfriar.",
+        "Distribuir frijoles, gelatina, fruta y banano en cuatro vasos altos.",
+        "Añadir una cantidad generosa de hielo raspado.",
+        "Verter leche evaporada y completar opcionalmente con flan o nata de coco.",
+        "Servir inmediatamente con cuchara larga y mezclar antes de comer."
+      ],
+      "tip": "Halo-halo significa “mezcla-mezcla”. Esta versión es personalizable; no exige ube ni ingredientes difíciles.",
+      "source": "https://www.kawalingpinoy.com/halo-halo/",
+      "season": "",
+      "substitutions": [
+        "La nata de coco y el ube son tradicionales en algunas versiones, pero pueden omitirse.",
+        "El mango fresco es opcional y depende de temporada."
+      ],
+      "health": ""
+    },
+    {
+      "id": "ginataang-mais",
+      "name": "Ginataang Mais",
+      "spanish": "Arroz cremoso de coco y maíz",
+      "category": "postre",
+      "emoji": "🥥",
+      "minutes": 50,
+      "serves": 6,
+      "level": "Intermedia",
+      "ingredients": [
+        {
+          "qty": "200 g",
+          "name": "arroz glutinoso entero",
+          "grade": "especial",
+          "note": "Suele requerir importación/tienda asiática; el arroz normal espesa menos.",
+          "evidence": [
+            "arrozgrano"
+          ]
+        },
+        {
+          "qty": "350 g",
+          "name": "granos de maíz fresco o en lata",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "800 ml",
+          "name": "leche de coco",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coco"
+          ]
+        },
+        {
+          "qty": "400 ml",
+          "name": "agua",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "120 g",
+          "name": "azúcar",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "¼ cdta",
+          "name": "sal",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Enjuagar arroz glutinoso; escurrir.",
+        "Llevar a hervor suave la leche de coco con agua en olla gruesa.",
+        "Agregar arroz y maíz fresco; cocer a fuego bajo 20–25 minutos, revolviendo.",
+        "Incorporar azúcar y sal (y maíz enlatado si se usa) y continuar 10–15 minutos hasta arroz cocido y consistencia cremosa.",
+        "Añadir agua caliente si queda demasiado espeso; servir tibio o frío."
+      ],
+      "tip": "Con arroz común también se puede preparar una adaptación, menos pegajosa que el original.",
+      "source": "https://www.kawalingpinoy.com/ginataang-mais/",
+      "season": "",
+      "substitutions": [],
+      "health": ""
+    },
+    {
+      "id": "buko-salad",
+      "name": "Buko Salad",
+      "spanish": "Ensalada dulce de coco tierno",
+      "category": "postre",
+      "emoji": "🥥",
+      "minutes": 20,
+      "serves": 8,
+      "level": "Fácil",
+      "ingredients": [
+        {
+          "qty": "2 tazas",
+          "name": "pulpa de coco tierno en tiras",
+          "grade": "comun",
+          "note": "La pipa se vende en Costa Rica; abrir cocos tiernos para obtener suficiente pulpa. El rendimiento varía.",
+          "evidence": [
+            "pipa"
+          ]
+        },
+        {
+          "qty": "1 lata 800 g",
+          "name": "cóctel de frutas escurrido",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "coctel"
+          ]
+        },
+        {
+          "qty": "250 ml",
+          "name": "crema dulce fría",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        },
+        {
+          "qty": "200 g",
+          "name": "leche condensada",
+          "grade": "comun",
+          "note": "",
+          "evidence": [
+            "condensada"
+          ]
+        },
+        {
+          "qty": "1 taza",
+          "name": "gelatina preparada en cubitos, opcional",
+          "grade": "comun",
+          "note": "",
+          "evidence": []
+        }
+      ],
+      "steps": [
+        "Escurrir muy bien el cóctel de frutas para que no agüe la crema.",
+        "Cortar el coco tierno en tiras finas, verificando que no queden fragmentos de cáscara.",
+        "Mezclar crema y leche condensada hasta obtener un aderezo homogéneo.",
+        "Incorporar coco, fruta y gelatina con movimientos suaves.",
+        "Refrigerar al menos 3–4 horas antes de servir frío."
+      ],
+      "tip": "No necesita pandan, ube, kaong ni nata de coco: es una variante simple de un postre filipino auténtico.",
+      "source": "https://www.kawalingpinoy.com/buko-salad/",
+      "season": "",
+      "substitutions": [
+        "Si no consigue coco tierno, usar coco rallado hidratado cambia claramente la textura y es una adaptación."
+      ],
+      "health": ""
+    }
+  ]
+}

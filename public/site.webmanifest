@@ -1,0 +1,9 @@
+{
+  "name": "Sabores de Filipinas",
+  "short_name": "Sabores PH",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf6e9",
+  "theme_color": "#163f33",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
